@@ -1,33 +1,52 @@
-# SIEM-TASK
-# SIEM Task - Splunk Configuration
+# SIEM Task — Splunk Enterprise Lab
 
-This project is part of my internship tasks with *Uneeq Interns. The goal of this task was to install, configure, and use **Splunk* as a SIEM tool to monitor and analyze security events.
+## Overview
 
-## 📌 Task Overview:
-- ✅ Install and configure Splunk
-- ✅ Upload and ingest security event files (PDF reports, logs, etc.)
-- ✅ Create custom searches to filter and monitor events
-- ✅ Generate Alerts for real-time notifications
-- ✅ Create and customize Dashboards
+A hands-on Security Information and Event Management (SIEM) training task completed with **Uneeq Interns**, focusing on installing and using **Splunk Enterprise 9.4.3** in a Kali Linux lab.
 
-## ⚙ Configuration Steps:
-1. Downloaded and installed *Splunk Enterprise (9.4.3)* on Kali Linux.
-2. Uploaded PDF security reports to Splunk for analysis.
-3. Created searches to extract relevant data from reports.
-4. Configured alert actions to notify on specific conditions.
-5. Designed dashboards to visualize findings.
+The task covered ingesting training data, exploring events with searches, creating alerts, and presenting results through dashboards. A video walkthrough is linked below.
 
-## 📁 Files Included:
-- */configs* → Splunk inputs and alert configuration
-- */screenshots* → Proof of configuration and implementation
-- */reports* → Uploaded PDF and log files used in the task
-- */video* → Walkthrough video explaining the implementation
+## Lab Environment
 
-## 🎥 Video Demonstration:
-Check the full walkthrough video here → https://youtu.be/4Tycbo7R7rY?si=VceNT7GPOXdoZh0r
+- **Platform:** Kali Linux
+- **SIEM tool:** Splunk Enterprise 9.4.3
+- **Context:** Uneeq Interns training
 
-## 🔗 LinkedIn Post:
-See the official task announcement here → https://www.linkedin.com/posts/abdelrhman-salah334_cybersecurity-siem-splunk-activity-7340363495076425730-ltrU?utm_source=share&utm_medium=member_ios&rcm=ACoAAE3VmWMB_CSqPi01tn7f2fBlAe3rwvL56ng
+## Activities Documented
 
-## 🙌 Special Thanks:
-Thanks to *Uneeq Interns* for providing this valuable learning opportunity.
+1. Installed and configured Splunk Enterprise in the lab.
+2. Worked with imported training materials and event data.
+3. Used searches to inspect and filter available information.
+4. Configured alerts for selected conditions.
+5. Created dashboards to present results.
+
+For the actual workflow and on-screen evidence, see the video demonstration.
+
+## Evidence
+
+- **[Video walkthrough](https://youtu.be/4Tycbo7R7rY)** — Demonstration of the training task
+- **[LinkedIn project post](https://www.linkedin.com/posts/abdelrhman-salah334_cybersecurity-siem-splunk-activity-7340363495076425730-ltrU)** — Related project post
+
+**Repository contents:** This repository currently contains this README only. Configuration files, dashboards, datasets, screenshots, and reports are not included here. The links above are external references, not files hosted in this repository.
+
+## Skills and Concepts
+
+- SIEM fundamentals
+- Splunk Enterprise lab setup
+- Event searching and filtering
+- Alert configuration
+- Dashboard creation
+- Security monitoring concepts
+
+## Scope and Limitations
+
+This was an educational lab exercise, not evidence of production SOC deployment or independently verified threat detection. Exact alert rules, datasets, and dashboard configurations are not reproducible from this repository alone.
+
+## Acknowledgment
+
+Thanks to **Uneeq Interns** for the training opportunity.
+
+## Author
+
+**Abdelrhman Salah**  
+Computer Science Student | Cybersecurity & DevSecOps
